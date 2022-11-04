@@ -1,0 +1,1 @@
+This project is a small website with a few links to recipes. Its purpose is to demonstrate and crystallize the lessons I've learned in HTML, Git, and Github.
