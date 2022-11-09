@@ -1,0 +1,29 @@
+body {
+    font-family: "Arial", "sans-serif";
+}
+
+h1 {
+    text-align: center;
+    font-weight: 800;
+}
+
+h2 {
+    margin: 0.83em 10%;
+}
+
+li {
+    margin: 0% 10%;
+}
+
+.food-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    height: auto;
+    width: 80%;
+}
+
+.description{
+    margin: 0% 10%;
+}
